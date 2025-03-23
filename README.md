@@ -26,6 +26,9 @@ It's for Windows, but you can use it on Linux or Darwin with some simple changes
 
 4. Then you can find the solution in $\text{solution.csv}$.
 
+## Algorithm
+
+[My Solution：P10482 Sudoku 2 - Luogu](https://www.luogu.com.cn/article/8blh689j)
 
 
 
